@@ -1,0 +1,5 @@
+[
+  {,nome :'Mario',eta:30},
+  {nome: 'Anna', eta: 25},
+  {nome: 'Ciccio', eta: 28}
+]
