@@ -1,0 +1,311 @@
+{
+    "totale_richieste": 37,
+    "servizi_unici": [
+        "Chatbot",
+        "Report AI",
+        "Analisi dati"
+    ],
+    "conteggi_servizi": {
+        "Analisi dati": 15,
+        "Chatbot": 10,
+        "Report AI": 12
+    },
+    "richieste": [
+        {
+            "id": "1",
+            "nome": "Mario Rossi",
+            "email": "mario.rossi@email.com",
+            "eta": 34,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "3",
+            "nome": "Giulia Verdi",
+            "email": "giulia.verdi@email.com",
+            "eta": 29,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "4",
+            "nome": "Anna Neri",
+            "email": "anna.neri@email.com",
+            "eta": 41,
+            "servizio": "Chatbot",
+            "categoria_eta": "Senior"
+        },
+        {
+            "id": "5",
+            "nome": "Annibale Elefante",
+            "email": "annibaleeglielefanti@email.com",
+            "eta": 25,
+            "servizio": "Report AI",
+            "categoria_eta": "Junior"
+        },
+        {
+            "id": "6",
+            "nome": "Paola Chiara",
+            "email": "paola.chiara@vamosabailar.com",
+            "eta": 38,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "7",
+            "nome": "Sara Rosa",
+            "email": "sara.rosa@email.com",
+            "eta": 27,
+            "servizio": "Chatbot",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "8",
+            "nome": "Elena Viola",
+            "email": "elena.viola@email.com",
+            "eta": 31,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "9",
+            "nome": "Franco Marrone",
+            "email": "francone@email.com",
+            "eta": 45,
+            "servizio": "Report AI",
+            "categoria_eta": "Senior"
+        },
+        {
+            "id": "11",
+            "nome": "Alessio Greco",
+            "email": "alessio.greco@email.com",
+            "eta": 33,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "12",
+            "nome": "Martina   Riva",
+            "email": "martina.riva@email.com",
+            "eta": 24,
+            "servizio": "Report AI",
+            "categoria_eta": "Junior"
+        },
+        {
+            "id": "13",
+            "nome": "Roberto Neri",
+            "email": "roberto.neri@email.com",
+            "eta": 50,
+            "servizio": "Chatbot",
+            "categoria_eta": "Senior"
+        },
+        {
+            "id": "14",
+            "nome": "Chiara Fontana",
+            "email": "chiara.fontana@email.com",
+            "eta": 28,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "16",
+            "nome": "Valentina Longo",
+            "email": "valentina.longo@email.com",
+            "eta": 26,
+            "servizio": "Chatbot",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "17",
+            "nome": "Andrea Sala",
+            "email": "andrea.sala@email.com",
+            "eta": 21,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Junior"
+        },
+        {
+            "id": "18",
+            "nome": "Federica Deferica",
+            "email": "federica.deferica@email.com",
+            "eta": 39,
+            "servizio": "Report AI",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "19",
+            "nome": "Daniele Gatti",
+            "email": "daniele.gatti@email.com",
+            "eta": 44,
+            "servizio": "Chatbot",
+            "categoria_eta": "Senior"
+        },
+        {
+            "id": "21",
+            "nome": "Paride   Ficiente",
+            "email": "parideficiente@email.com",
+            "eta": 30,
+            "servizio": "Report AI",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "22",
+            "nome": "Serena Colombo",
+            "email": "serena.colombo@email.com",
+            "eta": 27,
+            "servizio": "Chatbot",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "23",
+            "nome": "Lorenzo Pellegrini",
+            "email": "lorenzo.pellegrini@email.com",
+            "eta": 32,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "26",
+            "nome": "Beatrice Gallo",
+            "email": "beatrice.gallo@email.com",
+            "eta": 29,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "27",
+            "nome": "Cristiano Ronaldo",
+            "email": "suuuu@alnassr.com",
+            "eta": 40,
+            "servizio": "Report AI",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "28",
+            "nome": "Elisa Barbieri",
+            "email": "elisa.barbieri@email.com",
+            "eta": 35,
+            "servizio": "Chatbot",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "29",
+            "nome": "Riccardo Conti",
+            "email": "riccardo.conti@email.com",
+            "eta": 42,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Senior"
+        },
+        {
+            "id": "30",
+            "nome": "Irene Ferrari",
+            "email": "irene.ferrari@email.com",
+            "eta": 20,
+            "servizio": "Report AI",
+            "categoria_eta": "Junior"
+        },
+        {
+            "id": "32",
+            "nome": "Silvia Leone",
+            "email": "silvia.leone@roarrrr.com",
+            "eta": 34,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "33",
+            "nome": "Giovanni Fabbri",
+            "email": "giovanni.fabbri@email.com",
+            "eta": 31,
+            "servizio": "Report AI",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "34",
+            "nome": "Pippo Pippi",
+            "email": "superpippo@email.com",
+            "eta": 33,
+            "servizio": "Report AI",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "36",
+            "nome": "Noemi Grassi",
+            "email": "noemi.grassi@email.com",
+            "eta": 24,
+            "servizio": "Report AI",
+            "categoria_eta": "Junior"
+        },
+        {
+            "id": "37",
+            "nome": "Christian Lombardi",
+            "email": "christian.lombardi@email.com",
+            "eta": 33,
+            "servizio": "Chatbot",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "38",
+            "nome": "Elena Strana",
+            "email": "elena.strana@email",
+            "eta": 29,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "39",
+            "nome": "Ciccio Python",
+            "email": "ciccio.python@email.com",
+            "eta": 25,
+            "servizio": "Report AI",
+            "categoria_eta": "Junior"
+        },
+        {
+            "id": "41",
+            "nome": "Giulia Maiuscola",
+            "email": "giulia.maiuscola@capslockbloccato.com",
+            "eta": 27,
+            "servizio": "Chatbot",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "42",
+            "nome": "Arianna Piras",
+            "email": "arianna.piras@email.com",
+            "eta": 29,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "44",
+            "nome": "Claudia Marchetti",
+            "email": "claudia.marchetti@email.com",
+            "eta": 37,
+            "servizio": "Report AI",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "47",
+            "nome": "Davide Confuso",
+            "email": "davide.confuso@email .com",
+            "eta": 35,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Adult"
+        },
+        {
+            "id": "49",
+            "nome": "Laura Bassi",
+            "email": "laura.bassi@email.com",
+            "eta": 19,
+            "servizio": "Chatbot",
+            "categoria_eta": "Junior"
+        },
+        {
+            "id": "50",
+            "nome": "Giovanni Giorgio Moroder",
+            "email": "mynameisgiovannigiorgiomuteverybodycallmegiorgio@daftpunk.com",
+            "eta": 52,
+            "servizio": "Analisi dati",
+            "categoria_eta": "Senior"
+        }
+    ]
+}
