@@ -135,7 +135,7 @@ class Pipeline:
                     continue
 
                 nome, email, servizio = self.sanification(nome, email, servizio)
-                categgoria = self.categoria_eta(eta)
+                categoria = self.categoria_eta(eta)
 
                 richiesta = {
                     'id': id,
@@ -143,7 +143,7 @@ class Pipeline:
                     'email': email,
                     'eta': eta,
                     'servizio': servizio,
-                    'categoria_eta': categgoria
+                    'categoria_eta': categoria
                 }
 
                 self.richieste.append(richiesta)
