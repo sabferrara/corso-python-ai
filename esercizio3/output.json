@@ -1,9 +1,9 @@
 {
     "totale_richieste": 37,
     "servizi_unici": [
+        "Analisi dati",
         "Chatbot",
-        "Report AI",
-        "Analisi dati"
+        "Report AI"
     ],
     "conteggi_servizi": {
         "Analisi dati": 15,
